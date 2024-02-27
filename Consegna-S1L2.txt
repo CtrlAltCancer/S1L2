@@ -1,0 +1,113 @@
+Consegna:
+
+1.1.1.1/8
+128.1.6.5/12
+200.1.2.3/24
+192.192.1.1/22
+126.5.4.3/9
+200.1.9.8/24
+172.16.0.4/16
+
+
+1.1.1.1/8
+IP Network
+1.0.0.0
+IP Gateway convenzionale
+1.0.0.1
+IP Broadcast
+1.255.255.255
+Subnet CIDR e in Binario
+/8
+11111111.00000000.00000000.00000000
+Host
+1.1.1
+
+
+
+128.1.6.5/12
+IP Network
+128.0.0.0
+IP Gateway convenzionale
+128.0.0.1
+IP Broadcast
+128.15.255.255
+Subnet CIDR e in Binario
+/12
+11111111.11110000.00000000.00000000
+Host
+1.6.5
+
+
+
+200.1.2.3/24
+IP Network
+200.1.2.0
+IP Gateway convenzionale
+200.1.2.1
+IP Broadcast
+200.1.2.255
+Subnet CIDR e in Binario
+/24
+11111111.11111111.11111111.00000000
+Host
+3
+
+
+
+192.192.1.1/22
+IP Network
+192.192.0.0
+IP Gateway convenzionale
+192.192.0.1
+IP Broadcast
+192.192.3.255
+Subnet CIDR e in Binario
+/22
+11111111.11111111.11111100.00000000
+Host
+1.1
+
+
+
+126.5.4.3/9
+IP Network
+126.0.0.0
+IP Gateway convenzionale
+126.0.0.1
+IP Broadcast
+126.127.255.255
+Subnet CIDR e in Binario
+/9
+11111111.10000000.00000000.00000000
+Host
+5.4.3
+
+
+
+200.1.9.8/24
+IP Network
+200.1.9.0
+IP Gateway convenzionale
+200.1.9.1
+IP Broadcast
+200.1.9.255
+Subnet CIDR e in Binario
+/24
+11111111.11111111.11111111.00000000
+Host
+8
+
+
+
+172.16.0.4/16
+IP Network
+172.16.0.0
+IP Gateway convenzionale
+172.16.0.1
+IP Broadcast
+172.16.255.255
+Subnet CIDR e in Binario
+/16
+11111111.11111111.00000000.00000000
+Host
+4
